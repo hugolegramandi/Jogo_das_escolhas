@@ -115,7 +115,7 @@
 function professor_1() {
     while (question != 1 || question != 2) { //Aqui são os numeros que devem ser digitados como resposta no prompt
       var question = prompt(
-        '1. \n 2.' //Aqui escrever as duas opçoes do personagem
+        '1. 1. Transmitir aulas via podcast programadas para leitura com acessibilidade para aqueles que já estão ficando acometidos pela tal cegueira. \n 2. 2. Insistir em dar aulas presenciais, tomar precauções como usar óculos de sol e evitar olhar diretamente nas pessoas, pois isso parece ser crucial para a infecção.' //Aqui escrever as duas opçoes do personagem
       );
   
       if (question == 1) {
@@ -125,7 +125,7 @@ function professor_1() {
         window.location.href = "../stories/professor_gameover.html"; // Se DIGITAR 2, vai para página game over do personagem
         break;
       } else {
-        alert("Digite 1 ou 2");
+        alert("Digite apenas 1 ou 2");
       }
     }
   }
