@@ -1,7 +1,7 @@
 # resilia_modulo_1
 Jogo de palavras - Projeto de encerramento do módulo 1 do curso Resilia Webdev.
 
-https://hugolegramandi.github.io/resilia_modulo_1/
+Link para acesso: https://hugolegramandi.github.io/resilia_modulo_1/
 
 Este jogo foi inspirado nos recentes eventos que assolaram o mundo nos últimos anos tirando a vida de milhões de pessoas. A cegueira relatada no jogo é uma sátira envolvendo a obra de José Saramago "Ensaio sobre a Cegueira" onde o mundo de fato é acometido por uma cegueira e que aqui neste jogo é comparada à 'cegueira' da ignorância ou ou da desinformação.
 
