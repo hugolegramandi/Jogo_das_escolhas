@@ -1,5 +1,6 @@
-# resilia_modulo_1
-Jogo de palavras - Projeto de encerramento do módulo 1 do curso Resilia Webdev.
+# Jogo das Escolhas
+
+Projeto de encerramento do módulo 1 do curso Resilia Webdev.
 
 Link para acesso: https://hugolegramandi.github.io/resilia_modulo_1/
 
